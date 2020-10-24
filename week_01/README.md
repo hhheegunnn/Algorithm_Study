@@ -1,7 +1,7 @@
 > 이곳은 해당 주차에 문제를 풀면서 알게된 노하우 / 정보를 공유하는 공간입니다.
 
 ## Todo
-
+### Topic - Greedy
 - [백준](https://www.acmicpc.net)
 	- [구현파트](https://solved.ac/problems/tags/implementation?sort=level&direction=asc&page=1) 해결 1000명 이상 문제 3문제
 - [프로그래머스](https://programmers.co.kr)
