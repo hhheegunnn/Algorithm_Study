@@ -1,8 +1,8 @@
 ## Algorithm_Study
 
-- [백준](https://www.acmicpc.net)
-- [프로그래머스](https://programmers.co.kr)
-- [solved.ac](https://solved.ac)
+### Location/Time
+
+노원 르하임 스터디 카페 / ????????????
 
 ### Nicknames
 
@@ -11,7 +11,21 @@
 - 김나연 :
 - 정현아 :
 - 민지호 :
-- 
+- ??????????????
+
+
+### Rules
+
+1. 출석 10회 기준 8회 이상(2번까지 결석 가능)
+2. 기본 2회 결석 이외 결석 시 증명 필요 (ex. 진단서 등)
+3. 과제 미제출 시 과제 항목당 5000원 패널티
+4. ????????????????
+
+
+- [백준](https://www.acmicpc.net
+- [프로그래머스](https://programmers.co.kr)
+- [solved.ac](https://solved.ac)
+
 
 ### Intro
 
