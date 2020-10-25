@@ -6,10 +6,10 @@
 ### Nicknames
 
 - 김희건 : Heegun
-- 정현아 :
+- 정현아 : Hyuna
 - ????? : 
-- 고예랑 :
-- 김나연 :
+- 고예랑 : Yearang
+- 김나연 : Nayeonkiim
 - 민지호 :
 
 
