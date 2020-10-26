@@ -8,6 +8,7 @@
 
 ## Progress
 [구글 스프레드 시트](https://docs.google.com/spreadsheets/d/1npCWYRjBLHIW-9Cd-zttJxZ99d8HBnggwV5pgCVOB0E/edit#gid=0)
+- 자신이 해결한 문제에 O 표시 부탁드립니다.
 
 
 
