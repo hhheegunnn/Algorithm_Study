@@ -6,15 +6,12 @@
 	- [구현파트](https://solved.ac/problems/tags/implementation?sort=level&direction=asc&page=1) 해결 1000명 이상 문제 3문제
 
 
-## Progress??????????????????
+## Progress
+[구글 스프레드 시트](https://docs.google.com/spreadsheets/d/1npCWYRjBLHIW-9Cd-zttJxZ99d8HBnggwV5pgCVOB0E/edit#gid=0)
+- 자신이 해결하고 완벽히 이해한 문제에만 0(숫자 0) 표시 부탁드립니다.
+- [임시] 해결했으나 다시 풀어봐야 하는 등 추가 학습이 필요한 문제는 맨 앞에 Re_를 붙혀주세요. (ex. Re_boj_S1_1000_Heegun.py) (해당 문제는 스프레드 시트에 체크 하지 말아주세요.)
 
-### boj
-- 김희건 : 1063, 1316
-- 정현아 :
-- ????? :
-- 고예랑 :
-- 김나연 :
-- 민지호 :
+
 
 
 
