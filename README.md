@@ -9,7 +9,7 @@
 - 정현아 : Hyuna 
 - 고예랑 : Yearang
 - 김나연 : Nayeonkiim
-- 민지호 :
+- 민지호 : Minjyo
 
 
 ### Rules
