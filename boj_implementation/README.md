@@ -6,15 +6,10 @@
 	- [구현파트](https://solved.ac/problems/tags/implementation?sort=level&direction=asc&page=1) 해결 1000명 이상 문제 3문제
 
 
-## Progress??????????????????
+## Progress
+[구글 스프레드 시트](https://docs.google.com/spreadsheets/d/1npCWYRjBLHIW-9Cd-zttJxZ99d8HBnggwV5pgCVOB0E/edit#gid=0)
+- 자신이 해결한 문제에 O 표시 부탁드립니다.
 
-### boj
-- 김희건 : 1063, 1316
-- 정현아 :
-- ????? :
-- 고예랑 :
-- 김나연 :
-- 민지호 :
 
 
 
