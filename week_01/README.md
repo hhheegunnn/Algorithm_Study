@@ -6,6 +6,7 @@
 	- [코딩테스트 연습 고득점 킷 그리디](https://programmers.co.kr/learn/courses/30/parts/12244) 2문제
 - 이것이 코딩테스트다
 	- Chapter 03 그리디(개념 + 실전문제)
+	- [저자 유튜브 강의](https://www.youtube.com/watch?v=2zjoKjt97vQ)
 
 
 ### Tips
