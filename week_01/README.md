@@ -1,7 +1,7 @@
 > 이곳은 해당 주차에 문제를 풀면서 알게된 노하우 / 정보를 공유하는 공간입니다.
 
 ## Todo
-### Week 01 Topic - Greedy
+### Week 01(~10/31) Topic - Greedy
 
 - [프로그래머스](https://programmers.co.kr)
 	- [코딩테스트 연습 고득점 킷 그리디](https://programmers.co.kr/learn/courses/30/parts/12244) 2문제
@@ -34,12 +34,6 @@
 - 김나연 :
 - 민지호 :
 
-## To Study
-- 김희건 : 
-- 정현아 :
-- 고예랑 :
-- 김나연 :
-- 민지호 :
 
 
 
