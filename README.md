@@ -24,7 +24,8 @@
 
 1. 최상위 디렉토리의 README.md 는 전체 안내 파일
 2. week 디렉토리의 README.md 는 해당 주차에 문제를 풀면서 알게된 소소한 팁
-3. 파일 이름은 `{사이트or책}_{레벨or난이도}_{문제번호}_{닉네임}.{파일형식}` 형식으로 작성 (ex. boj_G1_1010_Heegun.py, pg_lv1_42862_Heegun.py)
+3. 파일 이름은 `{사이트}_{레벨or난이도}_{문제번호}_{닉네임}.{파일형식}` 형식으로 작성 (백준 : boj_G1_1010_Heegun.py) (프로그래머스 : pg_lv1_42862_Heegun.py)
+	- 프로그래머스의 문제 번호는 해당 문제 url의 끝 숫자 (ex. https://programmers.co.kr/learn/courses/30/lessons/42862 -> 42862)
 4. 코드 작성시 주석 추가 요망
 5. 문제 성공 시 pull-request
  
