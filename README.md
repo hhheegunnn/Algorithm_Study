@@ -33,7 +33,7 @@
 5. 문제 성공 시 pull-request
  
 
-**항상 처음에 git pull upstream main 으로 자신의 repo를 최신화 하고 작업해주세요!!**
+**항상 자신의 repo에 push 하기 전에 git pull upstream main 으로 자신의 repo를 최신화 한 후 push해주세요!!**
 
 **파일 이름 형식이 귀찮으시더라도 다른 사람들을 위해 꼭 지켜주세요!!**
 
