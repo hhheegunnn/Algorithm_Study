@@ -27,7 +27,7 @@
 3. 파일 이름은 `{사이트}_{레벨or난이도}_{문제번호}_{닉네임}.{파일형식}` 형식으로 작성
 	- 예시
 		- 백준 : boj_G1_1010_Heegun.py
-		- 프로그래머스 : pg_lv1_42862_Heegun.py
+		- 프로그래머스 : pg_Lv1_42862_Heegun.py
 			- 프로그래머스의 문제 번호는 해당 문제 url의 끝 숫자 (ex. https://programmers.co.kr/learn/courses/30/lessons/42862 -> 42862)
 4. 코드 작성시 주석 추가 요망
 5. 문제 성공 시 pull-request
