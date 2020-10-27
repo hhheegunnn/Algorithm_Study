@@ -7,6 +7,7 @@
 
 - 김희건 : Heegun
 - 정현아 : Hyuna 
+- 여정화 :
 - 고예랑 : Yearang
 - 김나연 : Nayeonkiim
 - 민지호 : Minjyo
