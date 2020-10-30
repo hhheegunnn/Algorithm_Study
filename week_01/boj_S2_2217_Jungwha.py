@@ -1,3 +1,6 @@
+'''https://www.acmicpc.net/problem/2217'''
+'''로프'''
+
 N = int(input())
 ropes = []
 for i in range(N):
