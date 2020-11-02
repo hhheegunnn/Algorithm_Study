@@ -1,12 +1,11 @@
 ## Algorithm Study 알고리즘 스터디
 
-노원 더골 스터디 카페 / 토요일 11시~1시
+노원 ??? / ???
 
 
 ### Nicknames
 
 - 김희건 : Heegun
-- 정현아 : Hyuna 
 - 여정화 : Jungwha
 - 고예랑 : Yearang
 - 김나연 : Nayeonkiim
