@@ -17,4 +17,5 @@ def solution(n, costs):
                     con.add(b)
                     answer += c
                     break
+                
     return answer
