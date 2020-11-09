@@ -5,7 +5,7 @@
 - [프로그래머스](https://programmers.co.kr)
 	- [코딩테스트 연습 고득점 킷 그리디](https://programmers.co.kr/learn/courses/30/parts/12244) Lv3 문제 2문제 최대한 
 - [백준]
-	- 구현 파트 3문제(스프레드시트 참고) boj_implementation에서 진행
+	- 구현 파트 3문제(스프레드시트 참고) [boj_implementation](https://github.com/hhheegunnn/Algorithm_Study/tree/main/boj_implementation)에서 진행
 
 
 
