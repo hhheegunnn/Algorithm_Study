@@ -14,7 +14,7 @@
 
 ## Tip
 
-- S1_11286(절대값 힙) : 파이썬 input()사용 시 시간초과가 발생 -> sys.stdin.readline() 사용
+- S1_11286(절대값 힙) : 파이썬 input()사용 시 시간초과가 발생 -> sys.stdin.readline() 사용, 우선순위큐(heapq)학습
 
 
 
