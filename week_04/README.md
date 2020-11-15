@@ -1,11 +1,18 @@
 
-## Todo
-### Week 04(~11/21) Topic - implemetation, DFS
+## Week 04(~11/21) Todo
+### Topic - 복습 : implemetation, 예습 : DFS
+
+### 복습
+
+- [백준]
+	- 구현 파트 스터디 시간에 풀던 문제 포함 2문제 [boj_implementation](https://github.com/hhheegunnn/Algorithm_Study/tree/main/boj_implementation)에서 진행
+
+### 예습
 
 - [개인]
 	- DFS 학습
 - [백준]
-	- DFS 문제집(https://www.acmicpc.net/workbook/view/5934) 
+	- [DFS 문제집](https://www.acmicpc.net/workbook/view/5934) 8문제 중 4문제 이상 (solved.ac DFS standard 붙어있는 문제들 입니다)
 
 
 
