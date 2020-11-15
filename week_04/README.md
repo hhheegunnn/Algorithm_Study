@@ -1,6 +1,6 @@
 
 ## Week 04(~11/21) Todo
-### Topic - 복습 : implemetation, 예습 : DFS
+### Topic - 복습 : implemetation, 예습 : DFS/BFS
 
 ### 복습
 
@@ -10,9 +10,9 @@
 ### 예습
 
 - [개인]
-	- DFS 학습
+	- DFS/BFS 학습
 - [백준]
-	- [DFS 문제집](https://www.acmicpc.net/workbook/view/5934) 8문제 중 4문제 이상 (solved.ac DFS standard 붙어있는 문제들 입니다)
+	- [DFS/BFS 문제집](https://www.acmicpc.net/workbook/view/5934) 10문제 중 4문제 이상 (solved.ac DFS standard 붙어있는 문제들 입니다)
 
 
 
