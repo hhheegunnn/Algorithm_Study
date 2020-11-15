@@ -9,7 +9,7 @@
 - 여정화 : Jungwha
 - 고예랑 : Yearang
 - 김나연 : Nayeonkiim
-- 
+- 이재용 :
 
 
 ### Rules
