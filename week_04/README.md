@@ -12,7 +12,7 @@
 - [개인]
 	- DFS/BFS 학습
 - [백준]
-	- [DFS/BFS 문제집](https://www.acmicpc.net/workbook/view/5934) 10문제 중 4문제 이상 (solved.ac DFS standard 붙어있는 문제들 입니다)
+	- [DFS/BFS 문제집](https://www.acmicpc.net/workbook/view/5934) 10문제 중 4문제 이상 (solved.ac DFS/BFS standard 붙어있는 문제들 입니다)
 
 
 
