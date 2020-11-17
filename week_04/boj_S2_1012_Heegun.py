@@ -3,10 +3,19 @@
 
 """week_04/boj_S2_1012_Heegun.py"""
 
-"""[김희건] boj 유기농 배추"""
+"""[김희건] boj 유기농 배추 [파이썬의 재귀 깊이 한계]"""
+
+
+# 파이썬 재귀 제한 1000번
+# 50,50,2500 입력시 재귀 깊이 2500이상
+## 해결 -> import sys   sys.setrecursivelimit(10**4)
+import sys
+
+sys.setrecursionlimit(10**4)
 
 T = int(input())
 result = []
+
 
 def check_in(y,x):
     if 0<=x<c and 0<=y<r:
