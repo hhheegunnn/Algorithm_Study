@@ -4,6 +4,8 @@
 
 """괄호의 값"""
 
+"""boj_implementation/S/Re_boj_S2_2504_Heegun.py"""
+
 """[김희건] boj 괄호의 값"""
 
 from collections import deque
