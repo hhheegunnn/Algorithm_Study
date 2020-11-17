@@ -19,7 +19,7 @@
 ### Tips
 
 - 김희건
-	- boj_1012(유기농 배추) 파이썬 dfs재귀 방식 사용 시 재귀 깊이 한계 증가 필요 -> sys.setrecursivelimit(2500이상)
+	- boj_1012(유기농 배추) : 파이썬 dfs재귀 방식 사용 시 재귀 깊이 한계 증가 필요 -> sys.setrecursivelimit(2500이상)
 - 여정화
 - 고예랑
 - 김나연
