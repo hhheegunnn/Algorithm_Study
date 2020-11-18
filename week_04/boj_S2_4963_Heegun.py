@@ -5,7 +5,7 @@
 
 #git add week_04/boj_S2_4963_Heegun.py
 
-#git commit -m "[김희건] boj 섬의 개수"
+#git commit -m "[김희건] boj 섬의 개수 [파이썬 재귀 깊이 한계]"
 
 
 import sys
