@@ -3,9 +3,9 @@
 """촌수계산"""
 
 # path
-"""week_04/Re_boj_S2_11724_Heegun.py"""
+"""week_04/Re_boj_S2_2644_Heegun.py"""
 # commit m
-"""[김희건] boj 촌수계산 bfs로 다시 풀어보기"""
+"""[김희건] boj 촌수계산 [bfs로 다시 풀어보기]"""
 
 from collections import defaultdict,deque
 
