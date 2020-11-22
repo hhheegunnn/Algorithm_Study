@@ -5,7 +5,7 @@
 ### 복습
 
 - [프로그래머스]
-	- DFS/BFS 파트 남은 문제 lv3 3문제 최대한 [programmers](https://programmers.co.kr/learn/courses/30/parts/12421)
+	- DFS/BFS 파트 남은 문제 lv3 2문제 최대한 [programmers](https://programmers.co.kr/learn/courses/30/parts/12421)
 
 ### 예습
 
