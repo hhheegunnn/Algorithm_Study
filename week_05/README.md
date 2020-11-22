@@ -4,15 +4,15 @@
 
 ### 복습
 
-- [백준]
-	- 구현 파트 스터디 시간에 풀던 문제 포함 2문제 [boj_implementation](https://github.com/hhheegunnn/Algorithm_Study/tree/main/boj_implementation)에서 진행
+- [프로그래머스]
+	- DFS/BFS 파트 남은 문제 lv3 3문제 최대한 [programmers](https://programmers.co.kr/learn/courses/30/parts/12421)
 
 ### 예습
 
 - [개인]
 	- DFS/BFS 학습
 - [백준]
-	- [DFS/BFS 문제집](https://www.acmicpc.net/workbook/view/5934) 10문제 중 4문제 이상 (solved.ac DFS/BFS standard 붙어있는 문제들 입니다)
+	- [DFS/BFS 문제집](https://www.acmicpc.net/workbook/view/5934) 지난 주 풀었던 방식이 아닌 다른 방식으로 풀이(나이트 이동, 토마토, 토마토 문제는 BFS로 풀이) 4문제 이상
 
 
 
