@@ -5,9 +5,9 @@
 ### 복습
 
 - [프로그래머스]
-	- DFS/BFS 파트 남은 문제 최대한 [programmers](https://programmers.co.kr/learn/courses/30/parts/12421)
+	- [DFS/BFS 파트](https://programmers.co.kr/learn/courses/30/parts/12421) 남은 문제
 - [백준]
-	- [DFS/BFS 문제집](https://www.acmicpc.net/workbook/view/5934)남은 문제
+	- [DFS/BFS 문제집](https://www.acmicpc.net/workbook/view/5934) 남은 문제
 
 
 ### 예습
