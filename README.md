@@ -10,7 +10,7 @@
 - 고예랑 : Yearang
 - 김나연 : Nayeonkiim
 - 이재용 : Jaeyong
-- 장지훈 : Jihoon
+
 
 ### Rules
 
