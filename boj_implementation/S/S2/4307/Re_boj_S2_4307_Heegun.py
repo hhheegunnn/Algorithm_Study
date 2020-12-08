@@ -4,7 +4,7 @@
 """개미"""
 
 # git add boj_implementation/S/S2/4307/Re_boj_S2_4307_Heegun.py
-# git commit -m "[김희건] boj 개미 [ad hoc : 특별한 알고리즘을 사용하지 않고, 창의적인 아이디어를 이용하여 푸는 문제]
+# git commit -m "[김희건] boj 개미 [ad hoc : 특별한 알고리즘을 사용하지 않고, 창의적인 아이디어를 이용하여 푸는 문제]"
 
 import sys
 
