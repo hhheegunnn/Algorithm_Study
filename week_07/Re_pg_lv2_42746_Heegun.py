@@ -13,8 +13,8 @@ def solution(numbers):
 
     numbers.sort(key=lambda x: x*3,reverse =True)
 
-    print(numbers[2]*3)
-    return numbers
+    #print(numbers[2]*3)
+    return str(int(''.join(numbers)))
 
 print(solution([6, 10, 2]))
 print(solution([3,310,301, 30, 34, 5, 9]))
