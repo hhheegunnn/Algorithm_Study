@@ -52,3 +52,12 @@ for i in check:
 
 
 print(*result)
+
+
+bisect_result =[]
+for i in check:
+    if bisect_left(card,i) == bisect_right(card,i):
+        bisect_result.append(0)
+    else:
+        bisect_result.append(1)
+print(*bisect_result)
