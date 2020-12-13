@@ -1,6 +1,8 @@
 
 ## Week 06(~12/20) Todo
-### Topic - 복습 : 이분탐색  예습 : dp
+### Topic
+- 복습 : 이분탐색
+- 예습 : dp
 
 ### 복습
 
@@ -13,7 +15,7 @@
 - [개인]
 	- dp학습
 - [백준]
-	- [이분탐색 문제집](https://www.acmicpc.net/workbook/view/6085)
+	- [dp 문제집](https://www.acmicpc.net/workbook/view/6085)
 
 
 
