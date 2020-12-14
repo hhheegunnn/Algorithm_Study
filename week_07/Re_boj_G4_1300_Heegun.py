@@ -14,7 +14,8 @@ k = int(input())
 
 
 start = 1
-end = k
+#end = k
+end = n*n
 
 while start <= end:
     mid = (start + end) // 2
