@@ -4,7 +4,8 @@
 
 """연속부분최대곱"""
 
-
+# git add week_08/Re_boj_S4_2670_Heegun.py
+# git commit -m "[김희건] boj 연속부분최대곱 [파이썬 실수 계산 decimal]"
 
 from decimal import Decimal
 import sys
