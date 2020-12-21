@@ -1,5 +1,5 @@
 
-## Week 06(~12/27) Todo
+## Week 09(~12/27) Todo
 ### Topic
 - 복습 : dp
 - 예습 : dp
