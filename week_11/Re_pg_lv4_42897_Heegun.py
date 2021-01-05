@@ -7,7 +7,7 @@
 # git commit -m "[김희건] pg 도둑질"
 
 
-def solution(money):
+def solution(money): # 나누어서 생각하자
 
     dp1 = [0] * len(money)
     dp1[0] = money[0]
