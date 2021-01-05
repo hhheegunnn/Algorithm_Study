@@ -3,6 +3,7 @@
 
 """치킨 배달"""
 
+
 # git add boj_implementation/G/G5/15686/boj_G5_15686_Heegun.py
 # git commit -m "[김희건] boj 치킨 배달"
 
