@@ -13,6 +13,7 @@ input = sys.stdin.readline
 INF = sys.maxsize
 
 
+
 def solution(start):
     # 1 시작 v1 -> v2 -> N
     # 2 시작 v2 -> v1 -> N
