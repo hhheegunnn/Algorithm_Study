@@ -6,7 +6,7 @@
 # 4: 30 ~ 6 : 30
 
 # git add boj_implementation/G/G5/15683/boj_G5_15683_Heegun.py
-# git commit -m "[김희건] boj 감시 [개 비효율적, 다시 해보기]"
+# git commit -m "[김희건] boj 감시 [비효율적, bfs으로 다시 해보기]"
 
 from itertools import product
 import copy
