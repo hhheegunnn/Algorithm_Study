@@ -23,6 +23,16 @@ def diff_pop(y,x,ny,nx):
     else:
         return False
 
+def diff_n(y,x):
+    for i in delta:
+        ny,nx = y+i[0], x+i[1]
+        if check_in(ny,nx):
+            if L <= abs(Board[y][x] - Board[ny][nx]) <= R:
+                return True
+      
+    return False
+
+
 
 def bfs(start_r, start_c):
     
@@ -52,10 +62,15 @@ def bfs(start_r, start_c):
 
     naiont_pop = pop_sum//len(nation)
 
-    for i in nation:
-        Board[i[0]][i[1]] = naiont_pop
-    
 
+    if len(nation) == 1:
+        return False
+    else:
+        for i in nation:
+            Board[i[0]][i[1]] = naiont_pop
+        
+        return True
+    
 
 
 
@@ -63,28 +78,28 @@ def bfs(start_r, start_c):
 
 
 N, L, R = map(int,input().split())
-board = [list(map(int,input().split())) for _ in range(N)]
+Board = [list(map(int,input().split())) for _ in range(N)]
 cnt = 0
 
 
 while True:
 
-    Board = copy.deepcopy(board)
-
     visited = [[False for _ in range(N)] for _ in range(N)]
     
+    flag = False
 
+############ 여기서 줄여야함
     for r in range(N):
         for c in range(N):
-            if not visited[r][c]:
-                bfs(r,c)
-                
-    if board == Board:
+            if not visited[r][c] and diff_n(r,c): 
+                if bfs(r,c):
+                    flag = True
+############ 여기서 줄여야함 시간초과     
+    if flag:
+        cnt += 1
+    else:
         print(cnt)
         break
-    else:
-        board = Board
-        cnt += 1
 
 
 
