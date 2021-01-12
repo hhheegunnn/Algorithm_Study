@@ -48,17 +48,17 @@ def H():
 # ucr, ucc = 공기 청정기의 위쪽 좌표
 def move_air(cr,dir):
 
-    if dir == 1:
-        # 1. 위로
+    if dir == 1:# 공기청정기 상단
+        # 1. 왼쪽 공기청정기로 들어오는 방향
         for i in range(cr - 1, 0, -1):
             board[i][0]= board[i - 1][0]
-        # 2. 오른쪽으로
+        # 2. 위쪽 
         for j in range(0, C - 1):
             board[0][j] = board[0][j + 1]
-        # 3. 아래로
+        # 3. 오른쪽 
         for i in range(0, cr):
             board[i][C - 1] = board[i + 1][C - 1]
-        # 4. 왼쪽으로
+        # 4. 공기청정기에서 나오는쪽
         for j in range(C - 1, 1, -1):
             board[cr][j] = board[cr][j - 1]
     else:
