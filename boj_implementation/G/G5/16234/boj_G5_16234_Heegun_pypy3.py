@@ -2,6 +2,7 @@
 
 
 """ 인구 이동 """
+#약 120분
 
 # git add boj_implementation/G/G5/16234/boj_G5_16234_Heegun_pypy3.py
 # git commit -m "[김희건] boj 인구이동 [pypy3 통과, python사용시 시간초과]"
