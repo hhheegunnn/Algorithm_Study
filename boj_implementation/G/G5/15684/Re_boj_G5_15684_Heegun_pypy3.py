@@ -6,6 +6,7 @@
 # git add boj_implementation/G/G5/15684/Re_boj_G5_15684_Heegun_pypy3.py
 # git commit -m "[김희건] boj 사다리 조작 [어렵, python최적화 시도 못함, 걍 어렵]"
 
+
 def check(pos) : ## 사다리 진행
     #print(n)
     for c in range(n):
