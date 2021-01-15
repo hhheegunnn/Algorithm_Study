@@ -3,6 +3,9 @@
 
 """치즈"""
 
+# git add boj_implementation/G/G5/2636/Re_boj_G5_2636_Heegun.py
+# git commit -m "[김희건] boj 치즈"
+
 from collections import deque
 
 
@@ -31,7 +34,7 @@ def bfs(sr,sc):
                 else:
                     q.append([nr,nc])
 
-    #return left
+
 
 def delete():
     for i in range(R):
