@@ -7,7 +7,7 @@
 ### 복습
 
 - [프로그래머스]
-	- [플로이드 마샬 알고리즘 추가 학습 필요(유튜브 참고)](https://www.youtube.com/watch?v=acqm9mM1P6o)
+	- [플로이드 워셜 알고리즘 추가 학습 필요(유튜브 참고)](https://www.youtube.com/watch?v=acqm9mM1P6o)
 	- [다익스트라 프로그래머스](https://programmers.co.kr/learn/courses/30/parts/14393)
 	
 
