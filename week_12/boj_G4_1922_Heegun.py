@@ -4,7 +4,7 @@
 """네트워크 연결"""
 
 # git add week_12/boj_G4_1922_Heegun.py
-# git commit -m "[김희건] boj 네트워크 연결 [최솟 신장 트리 (크루스칼) 기본]"
+# git commit -m "[김희건] boj 네트워크 연결 [최소 신장 트리 (크루스칼) 기본]"
 
 
 def find_parent(parent,x):
