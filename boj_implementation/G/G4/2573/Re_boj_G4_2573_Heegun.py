@@ -59,8 +59,6 @@ N, M = map(int, input().split())
 board = [list(map(int, input().split())) for _ in range(N)]
 
 
-#bfs_visited = [[False for _ in range(M)] for _ in range(N)]
-dfs_visited = [[False for _ in range(M)] for _ in range(N)]
 
 year_cnt = 0
 
