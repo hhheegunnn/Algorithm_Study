@@ -2,7 +2,11 @@
 
 """  메뉴 리뉴얼 """
 
+# git add week_13/pg_LV2_72411_Heegun.py
+# git commit -m "[김희건] pg 메뉴 리뉴얼"
 
+
+# 복잡한데 시간은 더 빠름
 """
 from collections import defaultdict
 from itertools import combinations
@@ -52,6 +56,7 @@ def solution(orders,course):
     return answer
 """
 
+# 간결한데 시간은 더걸림...
 
 from itertools import combinations
 from collections import Counter
