@@ -12,7 +12,6 @@ left = 0
 
 def bfs_out(sr, sc):
 
-
     q = deque([(sr, sc)])
     visited[sr][sc] = True
     board[sr][sc] = 3
@@ -32,15 +31,14 @@ def bfs_out(sr, sc):
 
                 if board[nr][nc] == 1:
                     board[nr][nc] = 2
-                    tmp.append((nr,nc))
-                    
+                    tmp.append((nr, nc))
 
                 else:
                     board[nr][nc] = 3
                     q.append((nr, nc))
 
     return tmp
-    
+
 
 def check(sr, sc):
 
@@ -55,7 +53,7 @@ def check(sr, sc):
                 cnt += 1
 
     if cnt >= 2:
-        board[sr][sc] = 2 
+        board[sr][sc] = 2
     else:
         board[sr][sc] = 1
 
@@ -88,13 +86,12 @@ while left != 0:
 
     visited = [[False for _ in range(M)] for _ in range(N)]
 
-    t = bfs_out(0,0)
+    t = bfs_out(0, 0)
 
-    for r,c in t:
-        check(r,c)
+    for r, c in t:
+        check(r, c)
 
     delete()
-
 
 
 print(kcnt)
@@ -108,4 +105,3 @@ print(kcnt)
 0 0 0 0 0
 
 """
-
