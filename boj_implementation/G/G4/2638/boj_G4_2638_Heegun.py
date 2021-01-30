@@ -82,18 +82,6 @@ for i in range(N):
 kcnt = 0
 
 
-"""
-visited = [[False for _ in range(M)] for _ in range(N)]
-
-t = bfs_out(0, 0)
-
-for r,c in t:
-    check(r,c)
-
-delete()
-print(board)
-"""
-
 while left != 0:
 
     kcnt += 1
