@@ -1,5 +1,7 @@
 ## Algorithm Study 알고리즘 스터디
 
+# CLOSED
+
 노원역 ??? / 일요일 오전 10시 30
 
 
